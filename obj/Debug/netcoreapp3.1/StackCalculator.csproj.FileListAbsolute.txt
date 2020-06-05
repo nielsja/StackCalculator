@@ -1,0 +1,13 @@
+C:\Users\NEDL\Desktop\StackCalculator\bin\Debug\netcoreapp3.1\StackCalculator.exe
+C:\Users\NEDL\Desktop\StackCalculator\bin\Debug\netcoreapp3.1\StackCalculator.deps.json
+C:\Users\NEDL\Desktop\StackCalculator\bin\Debug\netcoreapp3.1\StackCalculator.runtimeconfig.json
+C:\Users\NEDL\Desktop\StackCalculator\bin\Debug\netcoreapp3.1\StackCalculator.runtimeconfig.dev.json
+C:\Users\NEDL\Desktop\StackCalculator\bin\Debug\netcoreapp3.1\StackCalculator.dll
+C:\Users\NEDL\Desktop\StackCalculator\bin\Debug\netcoreapp3.1\StackCalculator.pdb
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.csproj.CoreCompileInputs.cache
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.dll
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.pdb
+C:\Users\NEDL\Desktop\StackCalculator\obj\Debug\netcoreapp3.1\StackCalculator.genruntimeconfig.cache
